@@ -14,3 +14,9 @@
 .clase-cooler {
     font-size: 24px;
 }
+
+#segundo-id {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
