@@ -6,4 +6,11 @@
     font-family: helvetica, 'Times New Roman', sans-serif;
 }
 
-.black
+.black {
+    color: white;
+    background-color: black;
+}
+
+.yellow {
+    background-color: yellow;
+}
